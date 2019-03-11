@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882220859329",
+    "firebase_url": "https://brow-926cb.firebaseio.com",
+    "project_id": "brow-926cb",
+    "storage_bucket": "brow-926cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882220859329:android:807ba0ef74f4d8d2",
+        "android_client_info": {
+          "package_name": "com.octagrimme.brow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882220859329-gf0d5e9gv6ul8pfnhsceddm94gqft923.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.octagrimme.brow",
+            "certificate_hash": "2a816841e1e447c19564ddca2b27730ca7b2dff7"
+          }
+        },
+        {
+          "client_id": "882220859329-nvr79692kkcs2j6sjkfa0rm21akavjie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQLMeJdib-TFiQHZgsjnGh_ijJZ-Fs7xE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882220859329-nvr79692kkcs2j6sjkfa0rm21akavjie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
